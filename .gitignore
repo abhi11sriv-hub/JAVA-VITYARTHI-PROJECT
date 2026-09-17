@@ -1,0 +1,4 @@
+out/
+*.class
+data/*.txt
+data/*.log
